@@ -1,0 +1,3 @@
+# Installer & manifest adalah ASSET RELEASE, bukan isi repo.
+*.exe
+latest.json
